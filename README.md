@@ -17,6 +17,8 @@ Resin Printing Knowledge Base
 * Chitubox
 * [UVTools](https://github.com/sn4k3/UVtools)
   * [Guide for Perfect Bed Adhesion and Removing Elephant's Foot](https://blog.honzamrazek.cz/2022/02/a-step-by-step-guide-for-the-perfect-bed-adhesion-and-removing-elephant-foot-on-a-resin-3d-printer/)
+  * [... and the update for UVTools 3](https://blog.honzamrazek.cz/2022/07/step-by-step-guide-on-perfect-bed-adhesion-and-elephant-foot-removal-in-uvtools-3/)
+  * [Getting Dimensionally Accurate Prints](https://blog.honzamrazek.cz/2022/06/getting-perfectly-crisp-and-dimensionally-accurate-3d-prints-on-a-resin-printer-fighting-resin-shrinkage-and-exposure-bleeding/)
   * [Optimizing Print Settings](https://blog.honzamrazek.cz/2022/01/prints-not-sticking-to-the-build-plate-layer-separation-rough-surface-on-a-resin-printer-resin-viscosity-the-common-denominator/#more-1936)
  
 ## Resins
