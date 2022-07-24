@@ -11,10 +11,13 @@ Resin Printing Knowledge Base
 ### Slicer
 
 * Chitubox
-
+* [UVTools](https://github.com/sn4k3/UVtools)
+ * [Guide for Perfect Bed Adhesion and Removing Elephant's Foot](https://blog.honzamrazek.cz/2022/02/a-step-by-step-guide-for-the-perfect-bed-adhesion-and-removing-elephant-foot-on-a-resin-3d-printer/)
+ * [Optimizing Print Settings](https://blog.honzamrazek.cz/2022/01/prints-not-sticking-to-the-build-plate-layer-separation-rough-surface-on-a-resin-printer-resin-viscosity-the-common-denominator/#more-1936)
+ 
 ## Resins
 
-### Siraya Tech
+### Siraya 
 #### Blu Obsidian Black
 
 * [Siraya Tech Web Page](https://siraya.tech/products/blu-tough-resin-by-siraya?_pos=1&_sid=ef7fa2653&_ss=r&variant=40151585095789)
