@@ -5,15 +5,19 @@ Resin Printing Knowledge Base
 
 ### Anycubic Mono
 
-* Modified with Incukit heater 
+* Modified with [IncuKit Mini Heater](https://incubatorwarehouse.com/48-watt-incukit-dc.html)
   * [Amazon Purchase Link](https://www.amazon.com/gp/product/B078SH8DT2/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+  * Custom Mount
+    * See [Photon Mono Parts](https://github.com/doug-harriman/resin-printing/tree/main/photo-mono-parts) for CAD, etc.
+
+<img src="https://github.com/doug-harriman/resin-printing/blob/main/photo-mono-parts/mount-render.png" width="400"><img src="https://github.com/doug-harriman/resin-printing/blob/main/photo-mono-parts/mount-assembly.png" width="400">
 
 ### Slicer
 
 * Chitubox
 * [UVTools](https://github.com/sn4k3/UVtools)
- * [Guide for Perfect Bed Adhesion and Removing Elephant's Foot](https://blog.honzamrazek.cz/2022/02/a-step-by-step-guide-for-the-perfect-bed-adhesion-and-removing-elephant-foot-on-a-resin-3d-printer/)
- * [Optimizing Print Settings](https://blog.honzamrazek.cz/2022/01/prints-not-sticking-to-the-build-plate-layer-separation-rough-surface-on-a-resin-printer-resin-viscosity-the-common-denominator/#more-1936)
+  * [Guide for Perfect Bed Adhesion and Removing Elephant's Foot](https://blog.honzamrazek.cz/2022/02/a-step-by-step-guide-for-the-perfect-bed-adhesion-and-removing-elephant-foot-on-a-resin-3d-printer/)
+  * [Optimizing Print Settings](https://blog.honzamrazek.cz/2022/01/prints-not-sticking-to-the-build-plate-layer-separation-rough-surface-on-a-resin-printer-resin-viscosity-the-common-denominator/#more-1936)
  
 ## Resins
 
